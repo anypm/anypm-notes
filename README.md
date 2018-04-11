@@ -31,7 +31,7 @@
 
 
 # 代码篇
-## [Markdown 笔记](MarkdownNotes.md)（计划中）
+## [Markdown 笔记](MarkdownNotes.md)（更新中）
 ## [Python3 笔记](Python3Notes.md)（计划中）
 ## [Django 笔记](DjangoNotes.md)（计划中）
 ## [PHP 笔记](PHPNotes.md)（计划中）

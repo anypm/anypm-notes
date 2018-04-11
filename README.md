@@ -5,7 +5,7 @@
 
 # 云计算框架篇
 
-## [ZStack 专题](ZStackNotes.md)（计划中）
+## [ZStack 笔记](ZStackNotes.md)（计划中）
 ## [OpenStack 笔记](OpenStackNotes.md)（计划中）
 ## [CloudStack 笔记](CloudStackNotes.md)（计划中）
 ## [Docker 笔记](DockerNotes.md)（计划中）

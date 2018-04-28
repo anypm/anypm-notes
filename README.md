@@ -106,4 +106,4 @@
 ***
 # 系统篇
 ## [Linux 笔记](LinuxNotes.md) （更新中）
-## [MacOSX 笔记](MacOSXNotes.md) （更新中）
+## [MacOSX 笔记](MacOSNotes.md) （更新中）

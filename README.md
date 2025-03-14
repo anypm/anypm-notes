@@ -1,9 +1,8 @@
 # 产品汪学习笔记
-
-啥都懂一点的产品汪，整理记录一些一路上学习过的方法论和技能树……o(∩_∩)o 
+整理一些产品路上学习过的方法论和技能树……o(∩_∩)o 
 ***
 
-## [大模型笔记](GPTNotes.md)（计划中）
+## [GPT笔记](GPTNotes.md)（计划中）
 ## [AIGC笔记](AIGCNotes.md)（计划中）
 ## [Agent笔记](AgentNotes.md)（计划中）
 ## [MCP笔记](MCPNotes.md)（计划中）

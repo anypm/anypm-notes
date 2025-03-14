@@ -1,24 +1,29 @@
 # 产品汪学习笔记
-
-啥都懂一点的产品汪，整理记录一些一路上学习过的方法论和技能树……o(∩_∩)o 
+整理一些产品路上学习过的方法论和技能树……o(∩_∩)o 
 ***
 
-# 云计算框架篇
+## [GPT笔记](GPTNotes.md)（计划中）
+## [AIGC笔记](AIGCNotes.md)（计划中）
+## [Agent笔记](AgentNotes.md)（计划中）
+## [MCP笔记](MCPNotes.md)（计划中）
+## [Dify笔记](DifyNotes.md)（计划中）
+## [Transformer笔记](TransformerNotes.md)（计划中）
+## [TensorFlow笔记](TensorflowNotes.md)（计划中）
+
+
+
+# 云计算篇
 
 ## [ZStack 笔记](ZStackNotes.md)（计划中）
 ## [OpenStack 笔记](OpenStackNotes.md)（计划中）
 ## [CloudStack 笔记](CloudStackNotes.md)（计划中）
 ## [Docker 笔记](DockerNotes.md)（计划中）
-
-# 云计算产品篇
-
-
 ## [阿里云专题](AliyunNotes.md)（计划中）
 ## [腾讯云专题](QCloudNotes.md)（计划中）
+## [华为云专题](AzureNotes.md)（计划中）
 ## [微软云专题](AzureNotes.md)（计划中）
 ## [AWS 专题](AWSNotes.md)（计划中）
 ## [GoogleCloud专题](googleNotes.md)（计划中）
-## [DigitalOcean 专题](DONotes.md)（计划中）
 
 
 # 大数据篇
@@ -28,6 +33,8 @@
 ## [Storm笔记](StormNotes.md)（计划中）
 ## [Zookeeper笔记](ZookeeperNotes.md)（计划中）
 ## [Hive笔记](HiveNotes.md)（计划中）
+
+# 人工智能篇
 
 
 # 代码篇
